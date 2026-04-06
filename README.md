@@ -42,7 +42,7 @@ Goal: Understand how iBGP behaves in non-full-mesh topologies and how RR + next-
 
 ![R1_before](./images/R1_Before.png)  
 ![R2_before](./images/R2_Before.png)  
-![R3_before](./images/R3_Before.png)
+![R3_before](./images/R3_after.png)
 
 ---
 
